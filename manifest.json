@@ -15,5 +15,6 @@
   "permissions": [
     "activeTab",
     "tabs"
-  ]
+  ],
+  "incognito":"split"
 }
