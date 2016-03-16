@@ -1,4 +1,6 @@
-1. close all porn tabs open in current browser window.
+# NO I WASN'T
+
+. close all porn tabs open in current browser window.
 2. open reddit and make that the active tab
 3. silently create another tab that contains a list of the links to the tabs closed.
 
